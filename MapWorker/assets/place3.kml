@@ -1,0 +1,425 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://earth.google.com/kml/2.2'>
+<Document> 
+<Placemark>
+	<name>Atm</name>
+	<Point>
+		<coordinates>12.5164966  41.9289137</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Atm Poste</name>
+	<Point>
+		<coordinates>9.0116766  44.4492332</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Atm Banca delle Marche</name>
+	<Point>
+		<coordinates>12.9766239  43.6076527</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Atm BNL</name>
+	<Point>
+		<coordinates>8.9440899  44.4039379</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Atm BCC Corinaldo</name>
+	<Point>
+		<coordinates>12.976684  43.6086098</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Atm Poste</name>
+	<Point>
+		<coordinates>10.4008273  44.4338074</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Atm Banca Antonveneta</name>
+	<Point>
+		<coordinates>9.4234073  45.4996369</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Atm Banca Popolare di Lodi</name>
+	<Point>
+		<coordinates>9.4231155  45.4994083</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Atm Banco Desio</name>
+	<Point>
+		<coordinates>9.422343  45.4990113</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Atm</name>
+	<Point>
+		<coordinates>9.4217679  45.4998896</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Fast food McDonald's</name>
+	<Point>
+		<coordinates>13.3551446  38.1235809</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Fast food</name>
+	<Point>
+		<coordinates>8.5561356  45.9283306</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Fast food Pizzeria Il Capriccio</name>
+	<Point>
+		<coordinates>8.6225289  45.815241</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Fast food</name>
+	<Point>
+		<coordinates>13.7740377  45.6557166</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Fast food L'Andalusia Kebab</name>
+	<Point>
+		<coordinates>11.1238643  46.0656556</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Fast food Pizza</name>
+	<Point>
+		<coordinates>11.2003238  46.1450325</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Fast food Pizza New</name>
+	<Point>
+		<coordinates>13.7785252  45.6484479</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Fast food</name>
+	<Point>
+		<coordinates>11.1389461  46.06692</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Fast food Falafel House</name>
+	<Point>
+		<coordinates>9.1518831  45.4573435</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Fast food McDonald</name>
+	<Point>
+		<coordinates>9.1596367  45.46643</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Fuel</name>
+	<Point>
+		<coordinates>13.7766551  45.6553711</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Fuel</name>
+	<Point>
+		<coordinates>13.7944343  45.658087</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Fuel</name>
+	<Point>
+		<coordinates>13.788988  45.6400218</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Fuel Area di servizio Duino Sud</name>
+	<Point>
+		<coordinates>13.6084255  45.7765856</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Fuel Dam Carburanti</name>
+	<Point>
+		<coordinates>14.1732125  42.4918742</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Fuel Esso</name>
+	<Point>
+		<coordinates>7.3085867  45.7708405</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Fuel</name>
+	<Point>
+		<coordinates>8.9636861  44.4420573</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Fuel</name>
+	<Point>
+		<coordinates>8.9729112  44.4499264</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Fuel</name>
+	<Point>
+		<coordinates>8.9784044  44.4521199</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Fuel</name>
+	<Point>
+		<coordinates>8.9799492  44.4538209</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Hospital</name>
+	<Point>
+		<coordinates>9.2093405  44.3338726</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Hospital Ospedale di Budrio</name>
+	<Point>
+		<coordinates>11.5353864  44.5349479</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Hospital Ospedali Riuniti Valdichiana Senese</name>
+	<Point>
+		<coordinates>11.8259179  43.1190134</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Hospital Ospedale Versilia</name>
+	<Point>
+		<coordinates>10.2239337  43.9143154</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Hospital ingresso Palazzina Uffici dell'Ospedale</name>
+	<Point>
+		<coordinates>11.5467144  45.5556809</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Hospital Ospedale S. Luigi</name>
+	<Point>
+		<coordinates>7.5588543  45.0292117</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Hospital Sanatorio Zonchello</name>
+	<Point>
+		<coordinates>9.3191771  40.3200087</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Hospital Ospedale Nuovo</name>
+	<Point>
+		<coordinates>9.4719488  40.9127844</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Hospital Clinica Mater Dei</name>
+	<Point>
+		<coordinates>12.4878817  41.923775</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Hospital Policlinico Italia</name>
+	<Point>
+		<coordinates>12.523244  41.9162389</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Parking</name>
+	<Point>
+		<coordinates>12.8297395  45.5810446</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Parking</name>
+	<Point>
+		<coordinates>12.8014209  45.564834</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Parking</name>
+	<Point>
+		<coordinates>11.7559825  45.0702137</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Parking</name>
+	<Point>
+		<coordinates>11.7543687  45.0706165</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Parking Piazza Sesana</name>
+	<Point>
+		<coordinates>12.8026327  45.5692399</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Parking</name>
+	<Point>
+		<coordinates>12.8007819  45.5704113</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Parking</name>
+	<Point>
+		<coordinates>13.3771089  46.4985813</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Parking</name>
+	<Point>
+		<coordinates>9.2009285  45.4658159</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Parking</name>
+	<Point>
+		<coordinates>8.898284  45.9049843</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Parking</name>
+	<Point>
+		<coordinates>8.7418663  46.0027675</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Pharmacy</name>
+	<Point>
+		<coordinates>8.9586292  44.4075131</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Pharmacy Farmacia Scanavino</name>
+	<Point>
+		<coordinates>8.9552235  44.4109699</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Pharmacy</name>
+	<Point>
+		<coordinates>11.2218532  43.2450168</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Pharmacy Farmacia Popolare</name>
+	<Point>
+		<coordinates>8.9675538  44.4200047</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Pharmacy Farmacia Monticelli</name>
+	<Point>
+		<coordinates>8.9560046  44.4151184</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Pharmacy</name>
+	<Point>
+		<coordinates>9.1538061  45.1823404</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Pharmacy</name>
+	<Point>
+		<coordinates>9.158535  44.520523</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Pharmacy</name>
+	<Point>
+		<coordinates>9.8155649  44.1095216</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Pharmacy</name>
+	<Point>
+		<coordinates>11.3348351  43.3257975</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Pharmacy</name>
+	<Point>
+		<coordinates>8.9515645  44.4131961</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Police Commissariato Vescovio</name>
+	<Point>
+		<coordinates>12.5123245  41.927904</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Police Comando Generale Arma dei Carabinieri</name>
+	<Point>
+		<coordinates>12.4929723  41.926495</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Police</name>
+	<Point>
+		<coordinates>12.4794177  41.9278409</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Police</name>
+	<Point>
+		<coordinates>12.4929962  41.9212442</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Police</name>
+	<Point>
+		<coordinates>9.6238839  40.9956146</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Police</name>
+	<Point>
+		<coordinates>9.6222617  41.0013863</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Police</name>
+	<Point>
+		<coordinates>9.5131623  40.907816</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Police</name>
+	<Point>
+		<coordinates>9.5112246  40.9310928</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Police</name>
+	<Point>
+		<coordinates>12.4870578  41.9242539</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Police</name>
+	<Point>
+		<coordinates>12.4856885  41.9300421</coordinates>
+	</Point>
+</Placemark>
+</Document>
+</kml>

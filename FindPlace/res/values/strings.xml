@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, FindPlaceActivity!</string>
+    <string name="app_name">FindPlace</string>
+     <string name="category_prompt">Search for</string>
+ 
+    <string-array name="categories">
+        <item></item>
+        <item>ATM</item>
+        <item>Fast Food</item>
+        <item>Fuel</item>
+        <item>Hospital</item>
+        <item>Parking</item>
+        <item>Pharmacy</item>
+        <item>Police</item>
+    </string-array>
+
+
+</resources>

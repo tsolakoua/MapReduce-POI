@@ -1,0 +1,425 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://earth.google.com/kml/2.2'>
+<Document> 
+<Placemark>
+	<name>Atm Poste</name>
+	<Point>
+		<coordinates>8.985957  44.4023445</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Atm Poste</name>
+	<Point>
+		<coordinates>8.9575678  44.416083</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Atm Poste</name>
+	<Point>
+		<coordinates>8.9497204  44.4181537</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Atm Poste</name>
+	<Point>
+		<coordinates>8.9640284  44.4429645</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Atm Poste</name>
+	<Point>
+		<coordinates>8.9827743  44.4546529</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Atm Poste</name>
+	<Point>
+		<coordinates>8.9767788  44.4065747</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Atm Poste</name>
+	<Point>
+		<coordinates>8.9299879  44.4136325</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Atm Genova 24</name>
+	<Point>
+		<coordinates>8.9359789  44.4097666</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Atm Poste</name>
+	<Point>
+		<coordinates>8.9293317  44.410479</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Atm Poste</name>
+	<Point>
+		<coordinates>8.9204605  44.4234225</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Fast food Rifugio Roda di Vael </name>
+	<Point>
+		<coordinates>11.6301926  46.4202212</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Fast food</name>
+	<Point>
+		<coordinates>8.9408946  44.5294349</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Fast food McDonald's</name>
+	<Point>
+		<coordinates>9.0639362  45.8372268</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Fast food AdS San Trifone Ovest</name>
+	<Point>
+		<coordinates>15.3852281  41.7800713</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Fast food Montevelino Sud</name>
+	<Point>
+		<coordinates>13.3464873  42.0935331</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Fast food McDonald's</name>
+	<Point>
+		<coordinates>11.7284024  44.368268</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Fast food La Civil della Trippa</name>
+	<Point>
+		<coordinates>11.2346892  43.7948807</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Fast food Burger King</name>
+	<Point>
+		<coordinates>9.1906039  45.4647886</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Fast food Spizzico</name>
+	<Point>
+		<coordinates>9.1904784  45.4647833</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Fast food McDonald's</name>
+	<Point>
+		<coordinates>9.1978995  45.4655953</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Fuel</name>
+	<Point>
+		<coordinates>9.1506732  45.4592</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Fuel</name>
+	<Point>
+		<coordinates>9.148046  45.4422304</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Fuel</name>
+	<Point>
+		<coordinates>9.1654389  45.480316</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Fuel Agip</name>
+	<Point>
+		<coordinates>12.6353777  45.5177258</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Fuel</name>
+	<Point>
+		<coordinates>9.1491174  45.4606275</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Fuel Agip</name>
+	<Point>
+		<coordinates>9.1458337  45.4709345</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Fuel</name>
+	<Point>
+		<coordinates>9.904908  44.9634906</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Fuel Agip</name>
+	<Point>
+		<coordinates>13.2011916  46.0558392</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Fuel Esso</name>
+	<Point>
+		<coordinates>12.8881208  45.8042987</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Fuel</name>
+	<Point>
+		<coordinates>9.1198627  45.4451139</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Hospital Pronto Soccorso</name>
+	<Point>
+		<coordinates>12.3434925  45.4407682</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Hospital Ospedale Misericordia e Dolce</name>
+	<Point>
+		<coordinates>11.0921888  43.8783098</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Hospital Ospedale Annunziata</name>
+	<Point>
+		<coordinates>14.2652188  40.8505689</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Hospital Ospedale F. Lotti</name>
+	<Point>
+		<coordinates>10.6344994  43.6592061</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Hospital Ospedale Umberto I</name>
+	<Point>
+		<coordinates>13.5194586  43.6178817</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Hospital Evangelico Internazionale</name>
+	<Point>
+		<coordinates>8.9429006  44.414157</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Hospital Bel Colle</name>
+	<Point>
+		<coordinates>12.1234217  42.3944467</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Hospital Gradenigo</name>
+	<Point>
+		<coordinates>7.7060427  45.0696144</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Hospital Polo Territoriale Citdi Imola (Ospedale Vecchio)</name>
+	<Point>
+		<coordinates>11.7048449  44.3550335</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Hospital Villa Paola</name>
+	<Point>
+		<coordinates>12.1728644  42.2590382</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Parking</name>
+	<Point>
+		<coordinates>11.7944832  42.0890257</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Parking</name>
+	<Point>
+		<coordinates>10.7906222  42.8828188</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Parking</name>
+	<Point>
+		<coordinates>6.8480507  45.6289713</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Parking Car park</name>
+	<Point>
+		<coordinates>9.0045981  46.0069373</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Parking</name>
+	<Point>
+		<coordinates>9.0027243  46.0055233</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Parking</name>
+	<Point>
+		<coordinates>9.1475026  45.4583173</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Parking</name>
+	<Point>
+		<coordinates>9.1573483  45.4623688</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Parking</name>
+	<Point>
+		<coordinates>14.8835134  41.166742</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Parking</name>
+	<Point>
+		<coordinates>14.8815608  41.1651186</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Parking Venezia</name>
+	<Point>
+		<coordinates>12.2752719  45.4811143</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Pharmacy Washington del Dr. Celi Mario</name>
+	<Point>
+		<coordinates>9.1552304  45.4617261</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Pharmacy</name>
+	<Point>
+		<coordinates>12.8051529  45.5665551</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Pharmacy Farmacia Adriatica</name>
+	<Point>
+		<coordinates>13.5230802  43.6148821</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Pharmacy Farmacia Verrotti</name>
+	<Point>
+		<coordinates>14.1671333  42.5008274</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Pharmacy San Pio X</name>
+	<Point>
+		<coordinates>11.7804877  45.0727635</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Pharmacy Farmacia di Altura</name>
+	<Point>
+		<coordinates>13.8183791  45.6273051</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Pharmacy</name>
+	<Point>
+		<coordinates>13.7765625  45.6494367</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Pharmacy</name>
+	<Point>
+		<coordinates>13.782356  45.6533461</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Pharmacy</name>
+	<Point>
+		<coordinates>13.7878513  45.6543421</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Pharmacy</name>
+	<Point>
+		<coordinates>13.7885465  45.6883859</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Police Carabinieri Ancona Centro</name>
+	<Point>
+		<coordinates>13.5209602  43.6153923</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Police Polizia Municipale</name>
+	<Point>
+		<coordinates>14.1478614  42.5126963</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Police Carabinieri</name>
+	<Point>
+		<coordinates>14.1843599  42.4670621</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Police Questura di Trieste</name>
+	<Point>
+		<coordinates>13.7710199  45.6495349</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Police Carabinieri</name>
+	<Point>
+		<coordinates>9.1593358  45.1869783</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Police Vigili Urbani</name>
+	<Point>
+		<coordinates>11.6998993  44.3498696</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Police Commissariato di P. S. Dora Vanchiglia</name>
+	<Point>
+		<coordinates>7.6841844  45.0749835</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Police Nucleo Radiomobile Carabinieri Cesena</name>
+	<Point>
+		<coordinates>12.2477254  44.1355444</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Police</name>
+	<Point>
+		<coordinates>11.8796462  45.4189174</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Police Commissariato Greco-Turro</name>
+	<Point>
+		<coordinates>9.2009575  45.5015325</coordinates>
+	</Point>
+</Placemark>
+</Document>
+</kml>
